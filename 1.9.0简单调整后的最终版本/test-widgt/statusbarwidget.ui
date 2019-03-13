@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>statusbarwidget</class>
+ <widget class="QWidget" name="statusbarwidget">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>295</width>
+    <height>521</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">QListWidget{  
+     background-color:rgba(255,255,255,100);
+    color:black;  
+    border:none;  
+}  
+  
+QListWidget::item{  
+    border:none;  
+        height: 54px;  
+}  
+  
+QListWidget::item:hover{  
+    background:rgb(252,240,193)  
+}  
+  
+QListWidget::item:selected{  
+    background:rgb(252,233,161);  
+    color:black;  
+}  
+  
+QScrollBar:vertical {                 
+    background:transparent;  
+    width:9px;  
+    margin: 0px 0px 2px 0px;  
+}  
+  
+QScrollBar::handle:vertical {  
+    background: rgb(195, 195, 195);  
+    min-height: 20px;  
+    border-radius: 3px;  
+}  
+  
+QScrollBar::handle:vertical:hover{  
+    background:rgba(0,0,0,30%);  
+}  
+  
+QScrollBar::add-line:vertical {  
+    height: 0px;  
+    subcontrol-position: bottom;  
+    subcontrol-origin: margin;  
+}  
+  
+QScrollBar::sub-line:vertical {  
+    height: 0px;  
+    subcontrol-position: top;  
+    subcontrol-origin: margin;  
+}  </string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>200</x>
+     <y>30</y>
+     <width>81</width>
+     <height>71</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>210</x>
+     <y>20</y>
+     <width>71</width>
+     <height>61</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255,50);
+ 
+    border-radius: 10px;
+    padding: 0 8px;
+    selection-background-color: darkgray;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="autoDefault">
+    <bool>true</bool>
+   </property>
+   <property name="default">
+    <bool>true</bool>
+   </property>
+   <property name="flat">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>0</y>
+     <width>41</width>
+     <height>21</height>
+    </rect>
+   </property>
+   <property name="font">
+    <font>
+     <family>文泉驿微米黑</family>
+     <pointsize>10</pointsize>
+     <weight>75</weight>
+     <bold>true</bold>
+    </font>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">background-color: rgba(255, 255, 255,50);
+ 
+    border-radius: 10px;
+    padding: 0 8px;
+    selection-background-color: darkgray;</string>
+   </property>
+   <property name="text">
+    <string>换肤</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>

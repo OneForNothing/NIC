@@ -1,0 +1,57 @@
+<RCC>
+    <qresource prefix="/image-3">
+        <file>聊天背景.jpg</file>
+        <file>登录背景.jpg</file>
+        <file>原注册背景.jpg</file>
+        <file>好友列表背景.jpg</file>
+        <file>198586.jpg</file>
+        <file>204378.jpg</file>
+        <file>220805.jpg</file>
+        <file>暂用头像.jpg</file>
+        <file>注册背景.jpg</file>
+        <file>主标志.png</file>
+        <file>活码.png</file>
+        <file>ZITI.png</file>
+        <file>images/晴.png</file>
+        <file>images/暴雪.png</file>
+        <file>太阳.jpg</file>
+        <file>images/多云.png</file>
+        <file>images/UI.png</file>
+        <file>images/UI1.png</file>
+        <file>images/UI2.png</file>
+        <file>images/UI3.png</file>
+        <file>images/暴雨.png</file>
+        <file>images/大暴雨 .png</file>
+        <file>images/大雪.png</file>
+        <file>images/大雨.png</file>
+        <file>images/冻雨.png</file>
+        <file>images/浮尘.png</file>
+        <file>images/雷阵雨.png</file>
+        <file>images/雷阵雨伴有冰雹.png</file>
+        <file>images/霾.png</file>
+        <file>images/强沙尘暴.png</file>
+        <file>images/特大暴雨.png</file>
+        <file>images/雾.png</file>
+        <file>images/小雪.png</file>
+        <file>images/小雨.png</file>
+        <file>images/扬沙.png</file>
+        <file>images/阴.png</file>
+        <file>images/雨夹雪.png</file>
+        <file>images/阵雪.png</file>
+        <file>images/阵雨.png</file>
+        <file>images/中雪.png</file>
+        <file>images/中雨.png</file>
+        <file>images/update.png</file>
+        <file>images/update_on.png</file>
+        <file>images/关闭按钮.png</file>
+        <file>images/关闭按钮1.png</file>
+        <file>images/最小化.png</file>
+        <file>images/最小化1.png</file>
+        <file>背景蓝天青草.jpg</file>
+        <file>icon.ico</file>
+        <file>好友列表背景/背景图片1.jpg</file>
+        <file>好友列表背景/背景图片2.jpg</file>
+        <file>好友列表背景/背景图片33.jpg</file>
+        <file>好友列表背景/背景图片44.jpg</file>
+    </qresource>
+</RCC>
